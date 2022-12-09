@@ -1,11 +1,16 @@
 # all-races-assets
 All Races Assets
 
-This repository contains All Assets mods sources for All Races COOP
+This repository contains All Assets mods sources for Star Craft 2 All Races Project
 
-Distributive version of Assets files might be downloaded from [here](https://drive.google.com/drive/folders/1aaDQd0zG7BwE7sFl6iDt8-n4i5fFsTzv?usp=share_link)
+## installation
 
-Usage: Clone repository ( or download files) into `/Mods/all-races-assets/` folder
+Clone repository into game mods folder
+```
+git clone hometlt/all-races-assets <SC2Directory>/mods/all-races-assets
+```
+
+Distributive version of Assets mods [here](https://drive.google.com/drive/folders/1aaDQd0zG7BwE7sFl6iDt8-n4i5fFsTzv?usp=share_link)
 
 ###Contents
 
