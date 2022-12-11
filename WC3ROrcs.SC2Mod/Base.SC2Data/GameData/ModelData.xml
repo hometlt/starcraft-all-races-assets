@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CModel id="Obla">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Heroblademaster\AlleyV_Wc3R_Heroblademaster.m3"/>
+    </CModel>
+    <CModel id="Obla@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Heroblademaster\AlleyV_Wc3R_Heroblademaster_Portrait.m3"/>
+    </CModel>
+    <CModel id="Ocb2">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Cairnebloodhoof\AlleyV_Wc3R_Cairnebloodhoof.m3"/>
+    </CModel>
+    <CModel id="Ocb2@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Cairnebloodhoof\AlleyV_Wc3R_Cairnebloodhoof_Portrait.m3"/>
+    </CModel>
+    <CModel id="Ocbh">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Cairnebloodhoof\AlleyV_Wc3R_Cairnebloodhoof.m3"/>
+    </CModel>
+    <CModel id="Ocbh@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Cairnebloodhoof\AlleyV_Wc3R_Cairnebloodhoof_Portrait.m3"/>
+    </CModel>
+    <CModel id="Odrt">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Drekthar\AlleyV_Wc3R_Drekthar.m3"/>
+    </CModel>
+    <CModel id="Odrt@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Drekthar\AlleyV_Wc3R_Drekthar_Portrait.m3"/>
+    </CModel>
+    <CModel id="Ofar">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Herofarseer\AlleyV_Wc3R_Herofarseer.m3"/>
+    </CModel>
+    <CModel id="Ofar@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Herofarseer\AlleyV_Wc3R_Herofarseer_Portrait.m3"/>
+    </CModel>
+    <CModel id="Ogld">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Orcwarlockguldan\AlleyV_Wc3R_Orcwarlockguldan.m3"/>
+    </CModel>
+    <CModel id="Ogld@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Orcwarlockguldan\AlleyV_Wc3R_Orcwarlockguldan_Portrait.m3"/>
+    </CModel>
+    <CModel id="Ogrh">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Hellscream\AlleyV_Wc3R_Hellscream.m3"/>
+    </CModel>
+    <CModel id="Ogrh@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Hellscream\AlleyV_Wc3R_Hellscream_Portrait.m3"/>
+    </CModel>
+    <CModel id="Orkn">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Rokhan\AlleyV_Wc3R_Rokhan.m3"/>
+    </CModel>
+    <CModel id="Orkn@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Rokhan\AlleyV_Wc3R_Rokhan_Portrait.m3"/>
+    </CModel>
+    <CModel id="Osam">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Samuro\AlleyV_Wc3R_Samuro.m3"/>
+    </CModel>
+    <CModel id="Osam@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Samuro\AlleyV_Wc3R_Samuro_Portrait.m3"/>
+    </CModel>
+    <CModel id="Oshd">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Heroshadowhunter\AlleyV_Wc3R_Heroshadowhunter.m3"/>
+    </CModel>
+    <CModel id="Oshd@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Heroshadowhunter\AlleyV_Wc3R_Heroshadowhunter_Portrait.m3"/>
+    </CModel>
+    <CModel id="Otcc">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Cairnebloodhoof\AlleyV_Wc3R_Cairnebloodhoof.m3"/>
+    </CModel>
+    <CModel id="Otcc@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Cairnebloodhoof\AlleyV_Wc3R_Cairnebloodhoof_Portrait.m3"/>
+    </CModel>
+    <CModel id="Otch">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Herotaurenchieftain\AlleyV_Wc3R_Herotaurenchieftain.m3"/>
+    </CModel>
+    <CModel id="Otch@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Herotaurenchieftain\AlleyV_Wc3R_Herotaurenchieftain_Portrait.m3"/>
+    </CModel>
+    <CModel id="Othr">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Thrall\AlleyV_Wc3R_Thrall_Black.m3"/>
+    </CModel>
+    <CModel id="Othr@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Thrall\AlleyV_Wc3R_Thrall_Portrait.m3"/>
+    </CModel>
+    <CModel id="nwad">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Watcherward\AlleyV_Wc3R_Watcherward.m3"/>
+    </CModel>
+    <CModel id="nwad@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Watcherward\AlleyV_Wc3R_Watcherward_Portrait.m3"/>
+    </CModel>
+    <CModel id="nwld">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Orcdirewolf\AlleyV_Wc3R_Orcdirewolf.m3"/>
+    </CModel>
+    <CModel id="nwld@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Orcdirewolf\AlleyV_Wc3R_Orcdirewolf_Portrait.m3"/>
+    </CModel>
+    <CModel id="ocat">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Catapult\AlleyV_Wc3R_Catapult.m3"/>
+    </CModel>
+    <CModel id="ocat@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Catapult\AlleyV_Wc3R_Catapult_portrait.m3"/>
+    </CModel>
+    <CModel id="odoc">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Witchdoctor\AlleyV_Wc3R_Witchdoctor.m3"/>
+    </CModel>
+    <CModel id="odoc@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Witchdoctor\AlleyV_Wc3R_Witchdoctor_Portrait.m3"/>
+    </CModel>
+    <CModel id="oeye">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Sentryward\AlleyV_Wc3R_Sentryward.m3"/>
+    </CModel>
+    <CModel id="oeye@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Sentryward\AlleyV_Wc3R_Sentryward_Portrait.m3"/>
+    </CModel>
+    <CModel id="ogrk">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Garthok\AlleyV_Wc3R_Garthok.m3"/>
+    </CModel>
+    <CModel id="ogrk@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Garthok\AlleyV_Wc3R_Garthok_Portrait.m3"/>
+    </CModel>
+    <CModel id="ogru">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Grunt\AlleyV_Wc3R_Grunt.m3"/>
+    </CModel>
+    <CModel id="ogru@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Grunt\AlleyV_Wc3R_Grunt_Portrait.m3"/>
+    </CModel>
+    <CModel id="ohun">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Headhunter\AlleyV_Wc3R_Headhunter.m3"/>
+    </CModel>
+    <CModel id="ohun@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Headhunter\AlleyV_Wc3R_Headhunter_Portrait.m3"/>
+    </CModel>
+    <CModel id="ohwd">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Healingward\AlleyV_Wc3R_Healingward.m3"/>
+    </CModel>
+    <CModel id="ohwd@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Healingward\AlleyV_Wc3R_Healingward_Portrait.m3"/>
+    </CModel>
+    <CModel id="okod">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Kotobeast\AlleyV_Wc3R_Kotobeast.m3"/>
+    </CModel>
+    <CModel id="okod@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Kotobeastnorider\AlleyV_Wc3R_Kotobeastnorider_Portrait.m3"/>
+    </CModel>
+    <CModel id="omtg">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Orcwarlord\AlleyV_Wc3R_Orcwarlord.m3"/>
+    </CModel>
+    <CModel id="onzg">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Nazgrel\AlleyV_Wc3R_Nazgrel.m3"/>
+    </CModel>
+    <CModel id="onzg@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Nazgrel\AlleyV_Wc3R_Nazgrel_Portrait.m3"/>
+    </CModel>
+    <CModel id="oosc">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Kotobeastnorider\AlleyV_Wc3R_Kotobeastnorider.m3"/>
+    </CModel>
+    <CModel id="oosc@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Kotobeastnorider\AlleyV_Wc3R_Kotobeastnorider_Portrait.m3"/>
+    </CModel>
+    <CModel id="opeo">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Peon\AlleyV_Wc3R_Peon.m3"/>
+    </CModel>
+    <CModel id="opeo@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Peon\AlleyV_Wc3R_Peon_Portrait.m3"/>
+    </CModel>
+    <CModel id="orai">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Wolfrider\AlleyV_Wc3R_Wolfrider.m3"/>
+    </CModel>
+    <CModel id="orai@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Wolfrider\AlleyV_Wc3R_Wolfrider_Portrait.m3"/>
+    </CModel>
+    <CModel id="oshm">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Shaman\AlleyV_Wc3R_Shaman.m3"/>
+    </CModel>
+    <CModel id="oshm@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Shaman\AlleyV_Wc3R_Shaman_Portrait.m3"/>
+    </CModel>
+    <CModel id="osp1">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Serpentward\AlleyV_Wc3R_Serpentward.m3"/>
+    </CModel>
+    <CModel id="osp1@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Ancestralguardian\AlleyV_Wc3R_Ancestralguardian_LvL1_Portrait.m3"/>
+    </CModel>
+    <CModel id="osp2">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Serpentwardlvl2\AlleyV_Wc3R_Serpentwardlvl2.m3"/>
+    </CModel>
+    <CModel id="osp2@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Ancestralguardian\AlleyV_Wc3R_Ancestralguardian_LvL1_Portrait.m3"/>
+    </CModel>
+    <CModel id="osp3">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Serpentwardlvl3\AlleyV_Wc3R_Serpentwardlvl3.m3"/>
+    </CModel>
+    <CModel id="osp3@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Ancestralguardian\AlleyV_Wc3R_Ancestralguardian_LvL1_Portrait.m3"/>
+    </CModel>
+    <CModel id="osp4">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Serpentwardlvl4\AlleyV_Wc3R_Serpentwardlvl4.m3"/>
+    </CModel>
+    <CModel id="osp4@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Ancestralguardian\AlleyV_Wc3R_Ancestralguardian_LvL1_Portrait.m3"/>
+    </CModel>
+    <CModel id="ospm">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Spiritwalker\AlleyV_Wc3R_Spiritwalker_Ethereal.m3"/>
+    </CModel>
+    <CModel id="ospm@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Spiritwalker\AlleyV_Wc3R_Spiritwalker_Portrait_Ethereal.m3"/>
+    </CModel>
+    <CModel id="ospw">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Spiritwalker\AlleyV_Wc3R_Spiritwalker.m3"/>
+    </CModel>
+    <CModel id="ospw@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Spiritwalker\AlleyV_Wc3R_Spiritwalker_Portrait.m3"/>
+    </CModel>
+    <CModel id="osw1">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Spiritwolf\AlleyV_Wc3R_Spiritwolf.m3"/>
+    </CModel>
+    <CModel id="osw1@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Orcdirewolf\AlleyV_Wc3R_Orcdirewolf_Portrait.m3"/>
+    </CModel>
+    <CModel id="osw2">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Orcdirewolf\AlleyV_Wc3R_Orcdirewolf.m3"/>
+    </CModel>
+    <CModel id="osw2@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Orcdirewolf\AlleyV_Wc3R_Orcdirewolf_Portrait.m3"/>
+    </CModel>
+    <CModel id="osw3">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Shadowwolf\AlleyV_Wc3R_Shadowwolf.m3"/>
+    </CModel>
+    <CModel id="osw3@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Orcdirewolf\AlleyV_Wc3R_Orcdirewolf_Portrait.m3"/>
+    </CModel>
+    <CModel id="oswy">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Spiritwyvern\AlleyV_Wc3R_Spiritwyvern.m3"/>
+    </CModel>
+    <CModel id="oswy@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Spiritwyvern\AlleyV_Wc3R_Spiritwyvern_Portrait.m3"/>
+    </CModel>
+    <CModel id="otau">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Tauren\AlleyV_Wc3R_Tauren.m3"/>
+    </CModel>
+    <CModel id="otau@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Tauren\AlleyV_Wc3R_Tauren_Portrait.m3"/>
+    </CModel>
+    <CModel id="otbk">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Headhunter\AlleyV_Wc3R_Headhunter.m3"/>
+    </CModel>
+    <CModel id="otbk@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Headhunter\AlleyV_Wc3R_Headhunter_PortraitB.m3"/>
+    </CModel>
+    <CModel id="otbr">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Bbattroll\AlleyV_Wc3R_Bbattroll.m3"/>
+    </CModel>
+    <CModel id="otbr@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Bbattroll\AlleyV_Wc3R_Bbattroll_Portrait.m3"/>
+    </CModel>
+    <CModel id="otot">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Stasistotem\AlleyV_Wc3R_Stasistotem.m3"/>
+    </CModel>
+    <CModel id="otot@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Stasistotem\AlleyV_Wc3R_Stasistotem_Portrait.m3"/>
+    </CModel>
+    <CModel id="ovlj">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Voljin\AlleyV_Wc3R_Voljin.m3"/>
+    </CModel>
+    <CModel id="ovlj@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Voljin\AlleyV_Wc3R_Voljin_Portrait.m3"/>
+    </CModel>
+    <CModel id="owar">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Orcwarlord\AlleyV_Wc3R_Orcwarlord.m3"/>
+    </CModel>
+    <CModel id="owar@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Orcwarlord\AlleyV_Wc3R_Orcwarlord_Portrait.m3"/>
+    </CModel>
+    <CModel id="ownr">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Riderlesswyvern\AlleyV_Wc3R_Riderlesswyvern.m3"/>
+    </CModel>
+    <CModel id="ownr@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Riderlesswyvern\AlleyV_Wc3R_Riderlesswyvern_Portrait.m3"/>
+    </CModel>
+    <CModel id="owyv">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Wyvernrider\AlleyV_Wc3R_Wyvernrider.m3"/>
+    </CModel>
+    <CModel id="owyv@Portrait">
+        <Model value="Assets\Units\Orc\AlleyV_Wc3R_Wyvernrider\AlleyV_Wc3R_Wyvernrider_Portrait.m3"/>
+    </CModel>
+</Catalog>

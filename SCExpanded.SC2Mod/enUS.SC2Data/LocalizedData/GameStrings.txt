@@ -1,0 +1,2 @@
+DocInfo/DescLong=Custom assets used in my SC Expanded mod. Feel free to use them as long as you give credit to their authors.
+DocInfo/Name=SC Expanded Assets
