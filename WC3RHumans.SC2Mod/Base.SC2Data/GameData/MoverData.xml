@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CMoverMissile id="Jainasea@1@LM" parent="missile">
+        <MotionPhases index="0">
+            <Driver value="Guidance"/>
+            <Acceleration value="6400"/>
+            <MaxSpeed value="14.0625"/>
+            <ClearanceAcceleration value="150"/>
+            <Outro value="0,-0.1"/>
+            <YawPitchRoll value="MAX"/>
+        </MotionPhases>
+    </CMoverMissile>
+    <CMoverMissile id="Jainasea@2@LM" parent="missile">
+        <MotionPhases index="0">
+            <Driver value="Guidance"/>
+            <Acceleration value="6400"/>
+            <MaxSpeed value="14.0625"/>
+            <ClearanceAcceleration value="150"/>
+            <Outro value="0,-0.1"/>
+            <YawPitchRoll value="MAX"/>
+        </MotionPhases>
+    </CMoverMissile>
+    <CMoverMissile id="Paladinboss1@2@LM" parent="missile"/>
+    <CMoverMissile id="Paladinboss2@2@LM" parent="missile"/>
+</Catalog>

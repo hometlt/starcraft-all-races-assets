@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CWeaponLegacy id="Jainasea@1" parent="missile" atkType="HERO">
+        <TargetFilters value="Visible;wall,tree,Missile,Dead,invulnerable,Decaying"/>
+        <MinScanRange value="9.375"/>
+        <Range value="9.375"/>
+        <RangeSlop value="3.9062"/>
+        <Period value="2.13"/>
+        <AttackType value="Hero"/>
+        <DamagePoint value="0.55"/>
+        <Backswing value="0.85"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="Jainasea@2" parent="missile" atkType="HERO">
+        <Options index="Disabled" value="1"/>
+        <TargetFilters value="Visible;wall,tree,Missile,Dead,invulnerable,Decaying"/>
+        <MinScanRange value="9.375"/>
+        <Range value="7.8125"/>
+        <RangeSlop value="3.9062"/>
+        <Period value="2.13"/>
+        <AttackType value="Hero"/>
+        <DamagePoint value="0.55"/>
+        <Backswing value="0.85"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="Paladinboss1@1" parent="normal" atkType="HERO">
+        <TargetFilters value="Visible;air,wall,tree,Missile,Dead,invulnerable,Decaying"/>
+        <MinScanRange value="7.8125"/>
+        <Range value="1.5625"/>
+        <RangeSlop value="3.9062"/>
+        <Period value="2.2"/>
+        <AttackType value="Hero"/>
+        <DamagePoint value="0.433"/>
+        <Backswing value="0.567"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="Paladinboss1@2" parent="missile" atkType="HERO">
+        <Options index="Disabled" value="1"/>
+        <TargetFilters value="air,Visible;wall,tree,Missile,Dead,invulnerable,Decaying"/>
+        <MinScanRange value="7.8125"/>
+        <Range value="7.8125"/>
+        <RangeSlop value="3.9062"/>
+        <Period value="2.13"/>
+        <AttackType value="Hero"/>
+        <DamagePoint value="0.433"/>
+        <Backswing value="0.567"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="Paladinboss2@1" parent="normal" atkType="HERO">
+        <TargetFilters value="Visible;air,wall,tree,Missile,Dead,invulnerable,Decaying"/>
+        <MinScanRange value="7.8125"/>
+        <Range value="1.5625"/>
+        <RangeSlop value="3.9062"/>
+        <Period value="2.2"/>
+        <AttackType value="Hero"/>
+        <DamagePoint value="0.433"/>
+        <Backswing value="0.567"/>
+    </CWeaponLegacy>
+    <CWeaponLegacy id="Paladinboss2@2" parent="missile" atkType="HERO">
+        <Options index="Disabled" value="1"/>
+        <TargetFilters value="air,Visible;wall,tree,Missile,Dead,invulnerable,Decaying"/>
+        <MinScanRange value="7.8125"/>
+        <Range value="7.8125"/>
+        <RangeSlop value="3.9062"/>
+        <Period value="2.13"/>
+        <AttackType value="Hero"/>
+        <DamagePoint value="0.433"/>
+        <Backswing value="0.567"/>
+    </CWeaponLegacy>
+</Catalog>

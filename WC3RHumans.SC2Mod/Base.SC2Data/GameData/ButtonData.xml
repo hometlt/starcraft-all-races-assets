@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CButton id="Jainasea" parent="War3_Button" art="Assets\Textures\war3_btnjaina.dds">
+        <DefaultButtonLayout Row="1"/>
+    </CButton>
+    <CButton id="Paladinboss1" parent="War3_Button" art="Assets\Textures\Renee_war3_btnHeroPaladin.dds"/>
+    <CButton id="Paladinboss2" parent="War3_Button" art="Assets\Textures\Renee_war3_btnHeroPaladin.dds"/>
+</Catalog>

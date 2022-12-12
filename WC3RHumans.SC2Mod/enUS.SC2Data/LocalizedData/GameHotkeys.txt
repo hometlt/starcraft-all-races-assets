@@ -1,0 +1,3 @@
+﻿Hotkey/Jainasea=A
+Hotkey/Paladinboss1=L
+Hotkey/Paladinboss2=L

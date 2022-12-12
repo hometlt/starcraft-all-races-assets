@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CActorUnit id="Jainasea" parent="War3_Hero" unitSound="HeroArchMage" unitName="Jainasea" defType="HERO">
+        <DeathArray index="Normal" SoundLink="HantDeath" VoiceLink="HantDeathVoice"/>
+        <WalkAnimMoveSpeed value="2.5"/>
+        <BarOffset value="60"/>
+        <BarWidth value="90"/>
+        <GroupIcon>
+            <Image index="0" value="Assets\Textures\war3_btnjaina.dds"/>
+        </GroupIcon>
+        <GroupSoundArray index="What" value="Hant_GroupWhat"/>
+        <GroupSoundArray index="Yes" value="Hant_GroupYes"/>
+        <GroupSoundArray index="Attack" value="Hant_GroupAttack"/>
+        <GroupSoundArray index="Board" value="Hant_GroupBoard"/>
+        <HeroIcon value="Assets\Textures\war3_btnjaina.dds"/>
+        <SoundArray index="Birth" value="Hant_Birth"/>
+        <SoundArray index="Help" value="Hant_Help"/>
+        <SoundArray index="What" value="JainaWhat"/>
+        <SoundArray index="Yes" value="JainaYes"/>
+        <SoundArray index="Attack" value="JainaYesAttack"/>
+        <SoundArray index="Pissed" value="JainaPissed"/>
+        <SoundArray index="Movement" value="HumanHeroArchMageMovement"/>
+        <SoundArray index="Turning" value="Hant_Turning"/>
+        <SoundArray index="Board" value="Hant_Board"/>
+        <SoundArray index="Click" value="Hant_Click"/>
+        <SoundArray index="ClickError" value="Hant_ClickError"/>
+        <SoundArray index="Highlight" value="Hant_Highlight"/>
+        <UnitIcon value="Assets\Textures\war3_btnjaina.dds"/>
+    </CActorUnit>
+    <CActorAction id="Jainasea@1" parent="War3_MissileWeapon" effectImpact="Jainasea@1" effectLaunch="Jainasea@1@LM">
+        <LaunchAssets Sound="Hant@1Launch"/>
+        <DamageMap index="None" Sound="Hant@1Damage"/>
+        <DamageMap index="Shield" Sound="Hant@1DamageShield"/>
+    </CActorAction>
+    <CActorMissile id="Jainasea@1@LM" parent="War3_Missile" unitName="Jainasea@1@LM"/>
+    <CActorAction id="Jainasea@2" parent="War3_MissileWeapon" effectImpact="Jainasea@2" effectLaunch="Jainasea@2@LM">
+        <LaunchAssets Sound="Hant@2Launch"/>
+        <DamageMap index="None" Sound="Hant@2Damage"/>
+        <DamageMap index="Shield" Sound="Hant@2DamageShield"/>
+    </CActorAction>
+    <CActorMissile id="Jainasea@2@LM" parent="War3_Missile" unitName="Jainasea@2@LM"/>
+    <CActorUnit id="Paladinboss1" parent="War3_Hero" unitSound="Uther" unitName="Paladinboss1" defType="HERO">
+        <Scale value="1.100000"/>
+        <DeathArray index="Normal" SoundLink="HuthDeath" VoiceLink="HuthDeathVoice"/>
+        <WalkAnimMoveSpeed value="2.1093"/>
+        <BarOffset value="60"/>
+        <BarWidth value="66"/>
+        <GroupIcon>
+            <Image index="0" value="Assets\Textures\Renee_war3_btnHeroPaladin.dds"/>
+        </GroupIcon>
+        <GroupSoundArray index="What" value="Huth_GroupWhat"/>
+        <GroupSoundArray index="Yes" value="Huth_GroupYes"/>
+        <GroupSoundArray index="Attack" value="Huth_GroupAttack"/>
+        <GroupSoundArray index="Board" value="Huth_GroupBoard"/>
+        <HeroIcon value="Assets\Textures\Renee_war3_btnHeroPaladin.dds"/>
+        <SoundArray index="Birth" value="Huth_Birth"/>
+        <SoundArray index="Help" value="Huth_Help"/>
+        <SoundArray index="Movement" value="Huth_Movement"/>
+        <SoundArray index="Turning" value="Huth_Turning"/>
+        <SoundArray index="Board" value="Huth_Board"/>
+        <SoundArray index="Click" value="Huth_Click"/>
+        <SoundArray index="ClickError" value="Huth_ClickError"/>
+        <SoundArray index="Highlight" value="Huth_Highlight"/>
+        <UnitIcon value="Assets\Textures\Renee_war3_btnHeroPaladin.dds"/>
+    </CActorUnit>
+    <CActorAction id="Paladinboss1@1" parent="War3_InstantWeapon" effectAttack="Paladinboss1@1" WeaponSound="MetalHeavyBash">
+        <LaunchAssets Sound="Huth@1Launch"/>
+        <ContainerAssets Sound="Huth@1BunkerAttackLaunch"/>
+        <DamageMap index="None" Sound="Huth@1Damage"/>
+        <DamageMap index="Shield" Sound="Huth@1DamageShield"/>
+    </CActorAction>
+    <CActorAction id="Paladinboss1@2" parent="War3_MissileWeapon" effectImpact="Paladinboss1@2" effectLaunch="Paladinboss1@2@LM">
+        <LaunchAssets Sound="Huth@2Launch"/>
+        <DamageMap index="None" Sound="Huth@2Damage"/>
+        <DamageMap index="Shield" Sound="Huth@2DamageShield"/>
+    </CActorAction>
+    <CActorMissile id="Paladinboss1@2@LM" parent="War3_Missile" unitName="Paladinboss1@2@LM"/>
+    <CActorUnit id="Paladinboss2" parent="War3_Hero" unitSound="Uther" unitName="Paladinboss2" defType="HERO">
+        <Scale value="1.100000"/>
+        <DeathArray index="Normal" SoundLink="HuthDeath" VoiceLink="HuthDeathVoice"/>
+        <WalkAnimMoveSpeed value="2.1093"/>
+        <BarOffset value="60"/>
+        <BarWidth value="66"/>
+        <GroupIcon>
+            <Image index="0" value="Assets\Textures\Renee_war3_btnHeroPaladin.dds"/>
+        </GroupIcon>
+        <GroupSoundArray index="What" value="Huth_GroupWhat"/>
+        <GroupSoundArray index="Yes" value="Huth_GroupYes"/>
+        <GroupSoundArray index="Attack" value="Huth_GroupAttack"/>
+        <GroupSoundArray index="Board" value="Huth_GroupBoard"/>
+        <HeroIcon value="Assets\Textures\Renee_war3_btnHeroPaladin.dds"/>
+        <SoundArray index="Birth" value="Huth_Birth"/>
+        <SoundArray index="Help" value="Huth_Help"/>
+        <SoundArray index="Movement" value="Huth_Movement"/>
+        <SoundArray index="Turning" value="Huth_Turning"/>
+        <SoundArray index="Board" value="Huth_Board"/>
+        <SoundArray index="Click" value="Huth_Click"/>
+        <SoundArray index="ClickError" value="Huth_ClickError"/>
+        <SoundArray index="Highlight" value="Huth_Highlight"/>
+        <UnitIcon value="Assets\Textures\Renee_war3_btnHeroPaladin.dds"/>
+    </CActorUnit>
+    <CActorAction id="Paladinboss2@1" parent="War3_InstantWeapon" effectAttack="Paladinboss2@1" WeaponSound="MetalHeavyBash">
+        <LaunchAssets Sound="Huth@1Launch"/>
+        <ContainerAssets Sound="Huth@1BunkerAttackLaunch"/>
+        <DamageMap index="None" Sound="Huth@1Damage"/>
+        <DamageMap index="Shield" Sound="Huth@1DamageShield"/>
+    </CActorAction>
+    <CActorAction id="Paladinboss2@2" parent="War3_MissileWeapon" effectImpact="Paladinboss2@2" effectLaunch="Paladinboss2@2@LM">
+        <LaunchAssets Sound="Huth@2Launch"/>
+        <DamageMap index="None" Sound="Huth@2Damage"/>
+        <DamageMap index="Shield" Sound="Huth@2DamageShield"/>
+    </CActorAction>
+    <CActorMissile id="Paladinboss2@2@LM" parent="War3_Missile" unitName="Paladinboss2@2@LM"/>
+    <!--waterelemental1-->
+    <CActorUnit id="hwat">
+        <Scale value="0.700000"/>
+    </CActorUnit>
+    <!--waterelemental2-->
+    <CActorUnit id="hwt2">
+        <Scale value="0.700000"/>
+    </CActorUnit>
+    <!--waterelemental3-->
+    <CActorUnit id="hwt3">
+        <Scale value="0.700000"/>
+    </CActorUnit>
+    <!--bereserkelemental-->
+    <CActorUnit id="nelb">
+        <On index="97" removed="1"/>
+    </CActorUnit>
+    <!--enragedelemental-->
+    <CActorUnit id="nele">
+        <On index="97" removed="1"/>
+    </CActorUnit>
+</Catalog>

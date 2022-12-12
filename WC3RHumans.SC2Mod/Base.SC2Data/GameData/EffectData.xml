@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CEffectDamage id="Jainasea@1" parent="War3_AttackDamage">
+        <Amount value="2"/>
+        <Random value="6"/>
+    </CEffectDamage>
+    <CEffectLaunchMissile id="Jainasea@1@LM" parent="War3_Missile" weaponid="Jainasea@1"/>
+    <CEffectDamage id="Jainasea@2" parent="War3_AttackDamage">
+        <Amount value="2"/>
+        <Random value="6"/>
+    </CEffectDamage>
+    <CEffectLaunchMissile id="Jainasea@2@LM" parent="War3_Missile" weaponid="Jainasea@2"/>
+    <CEffectDamage id="Paladinboss1@1" parent="War3_AttackDamage">
+        <Kind value="Melee"/>
+        <Amount value="2"/>
+        <Random value="10"/>
+    </CEffectDamage>
+    <CEffectDamage id="Paladinboss1@2" parent="War3_AttackDamage">
+        <Amount value="2"/>
+        <Random value="6"/>
+    </CEffectDamage>
+    <CEffectLaunchMissile id="Paladinboss1@2@LM" parent="War3_Missile" weaponid="Paladinboss1@2"/>
+    <CEffectDamage id="Paladinboss2@1" parent="War3_AttackDamage">
+        <Kind value="Melee"/>
+        <Amount value="2"/>
+        <Random value="10"/>
+    </CEffectDamage>
+    <CEffectDamage id="Paladinboss2@2" parent="War3_AttackDamage">
+        <Amount value="2"/>
+        <Random value="6"/>
+    </CEffectDamage>
+    <CEffectLaunchMissile id="Paladinboss2@2@LM" parent="War3_Missile" weaponid="Paladinboss2@2"/>
+</Catalog>

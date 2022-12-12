@@ -1,0 +1,39 @@
+﻿DocInfo/DescLong=Completely devoid of any description whatsoever.
+DocInfo/DescShort=Any
+DocInfo/Name=Just Another StarCraft II Map
+Effect/Name/Jainasea@1=Weapon 1
+Effect/Name/Jainasea@1@LM=Weapon 1 @ Projectile
+Effect/Name/Jainasea@2=Weapon 2
+Effect/Name/Jainasea@2@LM=Weapon 2 @ Projectile
+Effect/Name/Paladinboss1@1=Weapon 1
+Effect/Name/Paladinboss1@2=Weapon 2
+Effect/Name/Paladinboss1@2@LM=Weapon 2 @ Projectile
+Effect/Name/Paladinboss2@1=Weapon 1
+Effect/Name/Paladinboss2@2=Weapon 2
+Effect/Name/Paladinboss2@2@LM=Weapon 2 @ Projectile
+MapInfo/Player00/Name=Neutral
+MapInfo/Player01/Name=Player 1
+MapInfo/Player02/Name=Player 2
+MapInfo/Player03/Name=Hostile
+Name/Jainasea=Archmage
+Name/Jainasea@1=Weapon 1
+Name/Jainasea@2=Weapon 2
+Name/Paladinboss1=Paladin
+Name/Paladinboss1@1=Weapon 1
+Name/Paladinboss1@2=Weapon 2
+Name/Paladinboss2=Paladin
+Name/Paladinboss2@1=Weapon 1
+Name/Paladinboss2@2=Weapon 2
+Propernames/Jainasea=Jaina
+Propernames/Paladinboss1=Paladin Boss
+Propernames/Paladinboss2=Paladin
+Tip/Jainasea=Archmage
+Tip/Paladinboss1=Paladin
+Tip/Paladinboss2=Paladin
+Ubertip/Jainasea=Mystical Hero, adept at ranged assaults. Can learn Blizzard, Summon Water Elemental, Brilliance Aura and Mass Teleport. <n/><n/><c val="ffcc00">Attacks land and air units.</c>
+Ubertip/Paladinboss1=Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. <n/><n/><c val="ffcc00">Attacks land units.</c>
+Ubertip/Paladinboss2=Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. <n/><n/><c val="ffcc00">Attacks land units.</c>
+Unit/Name/Jainasea@1@LM=Weapon 1 @ Projectile
+Unit/Name/Jainasea@2@LM=Weapon 2 @ Projectile
+Unit/Name/Paladinboss1@2@LM=Weapon 2 @ Projectile
+Unit/Name/Paladinboss2@2@LM=Weapon 2 @ Projectile

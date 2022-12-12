@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CModel id="Hamg">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Heroarchmage\AlleyV_Wc3R_Heroarchmage.m3"/>
+    </CModel>
+    <CModel id="Hamg@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Heroarchmage\AlleyV_Wc3R_Heroarchmage_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="Hant">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Antonidas\AlleyV_Wc3R_Antonidas.m3"/>
+    </CModel>
+    <CModel id="Hant@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Antonidas\AlleyV_Wc3R_Antonidas_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="Hart">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Arthas\AlleyV_Wc3R_Arthas.m3"/>
+    </CModel>
+    <CModel id="Hart@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Arthas\AlleyV_Wc3R_Arthas_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="Hblm">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Herobloodelf\AlleyV_Wc3R_Herobloodelf.m3"/>
+    </CModel>
+    <CModel id="Hblm@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Herobloodelf\AlleyV_Wc3R_Herobloodelf_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="Hdgo">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Herodagren\AlleyV_Wc3R_Herodagren.m3"/>
+    </CModel>
+    <CModel id="Hdgo@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Herodagren\AlleyV_Wc3R_Herodagren_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="Hgam@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Antonidas\AlleyV_Wc3R_Antonidas_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="Hhkl">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Herohalahk\AlleyV_Wc3R_Herohalahk.m3"/>
+    </CModel>
+    <CModel id="Hhkl@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Herohalahk\AlleyV_Wc3R_Herohalahk_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="Hjai">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Jaina\AlleyV_Wc3R_Jaina.m3"/>
+    </CModel>
+    <CModel id="Hjai@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Jaina\AlleyV_Wc3R_Jaina_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="Hkal">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Kael\AlleyV_Wc3R_Kael.m3"/>
+    </CModel>
+    <CModel id="Hkal@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Kael\AlleyV_Wc3R_Kael_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="Hmbr">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Muradin\AlleyV_Wc3R_Muradin.m3"/>
+    </CModel>
+    <CModel id="Hmbr@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Muradin\AlleyV_Wc3R_Muradin_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="Hmgd">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Heromagroth\AlleyV_Wc3R_Heromagroth.m3"/>
+    </CModel>
+    <CModel id="Hmgd@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Heromagroth\AlleyV_Wc3R_Heromagroth_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="Hmkg">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Heromountainking\AlleyV_Wc3R_Heromountainking.m3"/>
+    </CModel>
+    <CModel id="Hmkg@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Heromountainking\AlleyV_Wc3R_Heromountainking_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="Hpal">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Heropaladin\AlleyV_Wc3R_Heropaladin.m3"/>
+    </CModel>
+    <CModel id="Hpal@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Heropaladin\AlleyV_Wc3R_Heropaladin_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="Huth">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Uther\AlleyV_Wc3R_Uther.m3"/>
+    </CModel>
+    <CModel id="Huth@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Uther\AlleyV_Wc3R_Uther_Portrait.m3"/>
+    </CModel>
+    <CModel id="Jainasea" parent="War3_Unit" race="Human">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Jainasea\AlleyV_Wc3R_Jainasea.m3"/>
+        <Events Anim="Death" Type="Sound" Payload="SND_DAMG"/>
+        <Events Anim="Dissipate" Type="Sound" Payload="SND_DDSH"/>
+        <Events>
+            <Anim value="Death"/>
+            <Name value="SPL_HBS0"/>
+            <Type value="FootprintLeft"/>
+            <Time value="0.333000"/>
+        </Events>
+        <Events>
+            <Anim value="Death"/>
+            <Name value="SPL_HBS1"/>
+            <Type value="FootprintLeft"/>
+            <Time value="1.166000"/>
+        </Events>
+        <Events>
+            <Anim value="Death"/>
+            <Name value="SPL_HBL1"/>
+            <Type value="FootprintLeft"/>
+            <Time value="1.766000"/>
+        </Events>
+        <Events>
+            <Anim value="Death"/>
+            <Name value="SPL_HBL2"/>
+            <Type value="FootprintLeft"/>
+            <Time value="2.033000"/>
+        </Events>
+        <Events>
+            <Anim value="Death"/>
+            <Name value="SPL_HBS3"/>
+            <Type value="FootprintLeft"/>
+            <Time value="1.366000"/>
+        </Events>
+        <SquibTypeDefault value="Flesh"/>
+    </CModel>
+    <CModel id="Jainasea@1@LM" parent="War3_Weapon">
+        <Model value="Assets\Abilities\Weapons\War3_FireBallMissile\War3_FireBallMissile.m3"/>
+        <Events Anim="Death" Type="Sound" Payload="SND_MFRB"/>
+        <Events Anim="Birth" Type="Sound" Payload="SND_MFRL"/>
+    </CModel>
+    <CModel id="Jainasea@2@LM" parent="War3_Weapon">
+        <Model value="Assets\Abilities\Weapons\War3_FireBallMissile\War3_FireBallMissile.m3"/>
+        <Events Anim="Death" Type="Sound" Payload="SND_MFRB"/>
+        <Events Anim="Birth" Type="Sound" Payload="SND_MFRL"/>
+    </CModel>
+    <CModel id="Jainasea@Portrait" parent="War3_Unit" race="Human">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Jainasea\AlleyV_Wc3R_Jainasea_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="Paladinboss1" parent="War3_Unit" race="Human">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Heropaladinboss\AlleyV_Wc3R_Heropaladinboss.m3"/>
+        <Events Anim="Death" Type="Sound" Payload="SND_DPAL"/>
+        <Events Anim="Attack,01" Type="Sound" Payload="SND_KPL1"/>
+        <Events Anim="Attack,02" Type="Sound" Payload="SND_KPL2"/>
+        <Events Anim="Dissipate" Type="Sound" Payload="SND_DDSH"/>
+        <Events>
+            <Anim value="Death"/>
+            <Name value="SPL_HBS0"/>
+            <Type value="FootprintLeft"/>
+            <Time value="0.100000"/>
+        </Events>
+        <Events>
+            <Anim value="Death"/>
+            <Name value="SPL_HBS1"/>
+            <Type value="FootprintLeft"/>
+            <Time value="0.933000"/>
+        </Events>
+        <Events>
+            <Anim value="Death"/>
+            <Name value="SPL_HBL1"/>
+            <Type value="FootprintLeft"/>
+            <Time value="0.600000"/>
+        </Events>
+        <Events>
+            <Anim value="Death"/>
+            <Name value="SPL_HBL2"/>
+            <Type value="FootprintLeft"/>
+            <Time value="0.067000"/>
+        </Events>
+        <Events>
+            <Anim value="Death"/>
+            <Name value="SPL_HBS3"/>
+            <Type value="FootprintLeft"/>
+            <Time value="0.400000"/>
+        </Events>
+        <SelectionRadius value="0.333333"/>
+        <SquibTypeDefault value="Metal"/>
+    </CModel>
+    <CModel id="Paladinboss1@2@LM" parent="War3_Missile"/>
+    <CModel id="Paladinboss1@Portrait" parent="War3_Unit" race="Human">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Heropaladinboss\AlleyV_Wc3R_Heropaladinboss_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="Paladinboss2" parent="War3_Unit" race="Human">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Heropaladinboss2\AlleyV_Wc3R_Heropaladinboss2.m3"/>
+        <Events Anim="Death" Type="Sound" Payload="SND_DPAL"/>
+        <Events Anim="Attack,01" Type="Sound" Payload="SND_KPL1"/>
+        <Events Anim="Attack,02" Type="Sound" Payload="SND_KPL2"/>
+        <Events Anim="Dissipate" Type="Sound" Payload="SND_DDSH"/>
+        <Events>
+            <Anim value="Death"/>
+            <Name value="SPL_HBS0"/>
+            <Type value="FootprintLeft"/>
+            <Time value="0.100000"/>
+        </Events>
+        <Events>
+            <Anim value="Death"/>
+            <Name value="SPL_HBS1"/>
+            <Type value="FootprintLeft"/>
+            <Time value="0.933000"/>
+        </Events>
+        <Events>
+            <Anim value="Death"/>
+            <Name value="SPL_HBL1"/>
+            <Type value="FootprintLeft"/>
+            <Time value="0.600000"/>
+        </Events>
+        <Events>
+            <Anim value="Death"/>
+            <Name value="SPL_HBL2"/>
+            <Type value="FootprintLeft"/>
+            <Time value="0.067000"/>
+        </Events>
+        <Events>
+            <Anim value="Death"/>
+            <Name value="SPL_HBS3"/>
+            <Type value="FootprintLeft"/>
+            <Time value="0.400000"/>
+        </Events>
+        <SelectionRadius value="0.333333"/>
+        <SquibTypeDefault value="Metal"/>
+    </CModel>
+    <CModel id="Paladinboss2@2@LM" parent="War3_Missile"/>
+    <CModel id="Paladinboss2@Portrait" parent="War3_Unit" race="Human">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Heropaladinboss2\AlleyV_Wc3R_Heropaladinboss2_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="War3HD_HeroArchMage">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Heroarchmage\AlleyV_Wc3R_Heroarchmage.m3"/>
+    </CModel>
+    <CModel id="War3_FlyingMachine">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Gyrocopter\AlleyV_Wc3R_Gyrocopter.m3"/>
+    </CModel>
+    <CModel id="War3_GyroCopter">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Gyrocopter\AlleyV_Wc3R_Gyrocopter.m3"/>
+    </CModel>
+    <CModel id="War3_HeroArchMage">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Heroarchmage\AlleyV_Wc3R_Heroarchmage.m3"/>
+    </CModel>
+    <CModel id="War3_HeroArchMage_Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Heroarchmage\AlleyV_Wc3R_Heroarchmage_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="War3_HeroPaladinBoss">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Heropaladinboss\AlleyV_Wc3R_Heropaladinboss.m3"/>
+    </CModel>
+    <CModel id="War3_HeroPaladinBoss_Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Heropaladinboss\AlleyV_Wc3R_Heropaladinboss_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="hcth">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Thecaptain\AlleyV_Wc3R_Thecaptain.m3"/>
+    </CModel>
+    <CModel id="hcth@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Thecaptain\AlleyV_Wc3R_Thecaptain_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="hdhw">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Bloodelfdragonhawk\AlleyV_Wc3R_Bloodelfdragonhawk_BE.m3"/>
+    </CModel>
+    <CModel id="hdhw@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Bloodelfdragonhawk\AlleyV_Wc3R_Bloodelfdragonhawk_BE_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="hfoo">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Footman\AlleyV_Wc3R_Footman.m3"/>
+    </CModel>
+    <CModel id="hfoo@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Footman\AlleyV_Wc3R_Footman_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="hgry">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Gryphonrider\AlleyV_Wc3R_Gryphonrider.m3"/>
+    </CModel>
+    <CModel id="hgry@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Gryphonrider\AlleyV_Wc3R_Gryphonrider_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="hgyr">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Gyrocopter\AlleyV_Wc3R_Gyrocopter.m3"/>
+    </CModel>
+    <CModel id="hgyr@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Gyrocopter\AlleyV_Wc3R_Gyrocopter_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="hhes">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Highelfswordsman\AlleyV_Wc3R_Bloodelfswordsman.m3"/>
+    </CModel>
+    <CModel id="hhes@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Highelfswordsman\AlleyV_Wc3R_Bloodelfswordsman_Portrait.m3"/>
+    </CModel>
+    <CModel id="hkni">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Knight\AlleyV_Wc3R_Knight.m3"/>
+    </CModel>
+    <CModel id="hkni@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Knight\AlleyV_Wc3R_Knight_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="hmil">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Militia\AlleyV_Wc3R_Militia.m3"/>
+    </CModel>
+    <CModel id="hmil@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Militia\AlleyV_Wc3R_Militia_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="hmpr">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Priest\AlleyV_Wc3R_Priest_BE.m3"/>
+    </CModel>
+    <CModel id="hmpr@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Priest\AlleyV_Wc3R_Priest_BE_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="hmtm">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Mortarteam\AlleyV_Wc3R_Mortarteam.m3"/>
+    </CModel>
+    <CModel id="hmtm@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Mortarteam\AlleyV_Wc3R_Mortarteam_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="hmtt">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Warwagon\AlleyV_Wc3R_Warwagon.m3"/>
+    </CModel>
+    <CModel id="hmtt@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Warwagon\AlleyV_Wc3R_Warwagon_Portrait.m3"/>
+    </CModel>
+    <CModel id="hpea">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Peasant\AlleyV_Wc3R_Peasant.m3"/>
+    </CModel>
+    <CModel id="hpea@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Peasant\AlleyV_Wc3R_Peasant_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="hphx">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Phoenix\AlleyV_Wc3R_Phoenix.m3"/>
+    </CModel>
+    <CModel id="hphx@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Phoenix\AlleyV_Wc3R_Phoenix_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="hpxe">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Phoenix\AlleyV_Wc3R_Phoenix_Egg.m3"/>
+    </CModel>
+    <CModel id="hpxe@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Phoenix\AlleyV_Wc3R_Phoenix_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="hrif">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Rifleman\AlleyV_Wc3R_Rifleman.m3"/>
+    </CModel>
+    <CModel id="hrif@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Rifleman\AlleyV_Wc3R_Rifleman_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="hrtt">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Warwagon\AlleyV_Wc3R_Warwagon.m3"/>
+    </CModel>
+    <CModel id="hrtt@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Warwagon\AlleyV_Wc3R_Warwagon_Portrait.m3"/>
+    </CModel>
+    <CModel id="hsor">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Sorceress\AlleyV_Wc3R_Sorceress_BE.m3"/>
+    </CModel>
+    <CModel id="hsor@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Sorceress\AlleyV_Wc3R_Sorceress_Portrait_BE.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="hspt">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Bloodelfspellthief\AlleyV_Wc3R_Bloodelfspellthief.m3"/>
+    </CModel>
+    <CModel id="hspt@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Bloodelfspellthief\AlleyV_Wc3R_Bloodelfspellthief_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="hwat">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Waterelemental\AlleyV_Wc3R_Waterelemental.m3"/>
+    </CModel>
+    <CModel id="hwat@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Waterelemental\AlleyV_Wc3R_Waterelemental_Portrait.m3"/>
+    </CModel>
+    <CModel id="hwt2">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Waterelementallvl2\AlleyV_Wc3R_Waterelementallvl2.m3"/>
+    </CModel>
+    <CModel id="hwt2@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Waterelemental\AlleyV_Wc3R_Waterelemental_Portrait.m3"/>
+    </CModel>
+    <CModel id="hwt3">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Waterelementallvl3\AlleyV_Wc3R_Waterelementallvl3.m3"/>
+    </CModel>
+    <CModel id="hwt3@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Waterelemental\AlleyV_Wc3R_Waterelemental_Portrait.m3"/>
+    </CModel>
+    <CModel id="nbel">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Highelfswordsman\AlleyV_Wc3R_Bloodelfswordsman.m3"/>
+    </CModel>
+    <CModel id="nbel@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Highelfswordsman\AlleyV_Wc3R_Bloodelfswordsman_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="nelb">
+        <Model value="Assets\Units\Human\AlleyV_War3R_Berserkelemental\AlleyV_War3R_Berserkelemental.m3"/>
+    </CModel>
+    <CModel id="nelb@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_War3R_Berserkelemental\AlleyV_War3R_Berserkelementa_Portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+    <CModel id="nele">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Enragedelemental\AlleyV_Wc3R_Enragedelemental.m3"/>
+    </CModel>
+    <CModel id="nele@Portrait">
+        <Model value="Assets\Units\Human\AlleyV_Wc3R_Enragedelemental\AlleyV_Wc3R_Enragedelemental_portrait.m3"/>
+        <Lighting value="AiurMorning"/>
+    </CModel>
+</Catalog>

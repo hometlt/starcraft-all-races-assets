@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CRequirementAnd id="Jainasea"/>
+    <CRequirementCountUnit id="Jainasea@Count" parent="War3_UnitCount" x="Jainasea"/>
+    <CRequirementAnd id="Paladinboss1"/>
+    <CRequirementCountUnit id="Paladinboss1@Count" parent="War3_UnitCount" x="Paladinboss1"/>
+    <CRequirementAnd id="Paladinboss2"/>
+    <CRequirementCountUnit id="Paladinboss2@Count" parent="War3_UnitCount" x="Paladinboss2"/>
+</Catalog>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CDataCollectionUnit id="Jainasea" parent="War3_HeroCampaign">
+        <EditorCategories value="Race:Human,DataGroup:Unit,ObjectType:Hero,DataFamily:Campaign"/>
+        <AbilInfoNormal value="AInv"/>
+        <AbilInfoLearned value="AHbz"/>
+        <AbilInfoLearned value="AHab"/>
+        <AbilInfoLearned value="AHwe"/>
+        <AbilInfoLearned value="AHmt"/>
+        <UpgradeInfoWeapon DamagePerDice="4"/>
+        <UpgradeInfoWeapon DamagePerDice="4"/>
+    </CDataCollectionUnit>
+    <CDataCollectionUnit id="Paladinboss1" parent="War3_HeroCampaign">
+        <EditorCategories value="Race:Human,DataGroup:Unit,ObjectType:Hero,DataFamily:Campaign"/>
+        <AbilInfoNormal value="AInv"/>
+        <AbilInfoLearned value="AHhb"/>
+        <AbilInfoLearned value="AHds"/>
+        <AbilInfoLearned value="AHre"/>
+        <AbilInfoLearned value="AHad"/>
+        <UpgradeInfoWeapon DamagePerDice="6"/>
+        <UpgradeInfoWeapon DamagePerDice="4"/>
+    </CDataCollectionUnit>
+    <CDataCollectionUnit id="Paladinboss2" parent="War3_HeroCampaign">
+        <EditorCategories value="Race:Human,DataGroup:Unit,ObjectType:Hero,DataFamily:Campaign"/>
+        <AbilInfoNormal value="AInv"/>
+        <AbilInfoLearned value="AHhb"/>
+        <AbilInfoLearned value="AHds"/>
+        <AbilInfoLearned value="AHre"/>
+        <AbilInfoLearned value="AHad"/>
+        <UpgradeInfoWeapon DamagePerDice="6"/>
+        <UpgradeInfoWeapon DamagePerDice="4"/>
+    </CDataCollectionUnit>
+</Catalog>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocInfo>
+    <ModType>
+        <Value>Interface</Value>
+    </ModType>
+    <Dependencies>
+        <Value>bnet:Void (Campaign)/0.0/999,file:Campaigns/Void.SC2Campaign</Value>
+        <Value>bnet:Warcraft Classic System/0.0/999,file:Mods/WarCoop/WarClassicSystem.SC2Mod</Value>
+        <Value>bnet:Nova Covert Ops (Art Mod)/0.0/999,file:Mods/NovaStoryAssets.SC2Mod</Value>
+    </Dependencies>
+</DocInfo>
