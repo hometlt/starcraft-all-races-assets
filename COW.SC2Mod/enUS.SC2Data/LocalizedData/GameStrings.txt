@@ -1,0 +1,3 @@
+﻿Button/Tooltip/MissileTurret2=Anti-air defensive structure.<n/><n/><c val="#ColorAttackInfo">Can attack air units.</c><n/><c val="FFE303">Detector</c>
+DocInfo/DescShort=Any
+DocInfo/Name=Just Another StarCraft II Mod
