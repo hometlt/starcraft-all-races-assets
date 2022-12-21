@@ -1,0 +1,8 @@
+Walk anim is now complete
+Walk anim still kinda is weird tho, should polish it later
+
+STILL NEEDS:
+Attack01
+Attack02
+Stand Left
+Stand Right

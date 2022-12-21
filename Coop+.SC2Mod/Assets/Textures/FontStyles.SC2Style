@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StyleFile>
+    <!-- Fonts -->
+    <Constant name="Swarm_Bold" val="#FontHeader"/>
+    <Constant name="Swarm_BoldExtended" val="#FontHeaderExtended"/>
+    <Constant name="Swarm_International" val="#FontInternational"/>
+    <Constant name="Swarm_RegularExtended" val="#FontStandardExtended"/>
+    <!-- Font Size Constants -->
+    <Constant name="Swarm_FontSizeXSmall" val="16"/>
+    <Constant name="Swarm_FontSizeSmall" val="18"/>
+    <Constant name="Swarm_FontSizeSmall" val="18"/>
+    <Constant name="Swarm_FontSizeMedium1" val="20"/>
+    <!-- Color Pallettes-->
+    <Constant name="Swarm_ColorWhite" val="255, 255, 255"/>
+    <Constant name="Swarm_ColorRed1" val="201, 28, 28"/>
+    <Constant name="Swarm_ColorOrange8" val="255, 90, 0"/>
+    <Constant name="Swarm_ColorGreen10" val="30, 255, 0"/>
+    <!-- Template Styles -->
+    <Style name="Swarm_BoldSmall" font="#Swarm_Bold" height="#Swarm_FontSizeSmall" vjustify="Middle"/>
+    <Style name="Swarm_BoldXSmall" font="#Swarm_Bold" height="#Swarm_FontSizeXSmall" vjustify="Middle"/>
+    <Style name="Swarm_BoldExtendedXSmall" font="#Swarm_BoldExtended" height="#Swarm_FontSizeXSmall" vjustify="Middle"/>
+    <Style name="Swarm_InternationalXSmall" font="#Swarm_International" height="#Swarm_FontSizeXSmall" vjustify="Middle"/>
+    <Style name="Swarm_InternationalSmall" font="#Swarm_International" height="#Swarm_FontSizeSmall" vjustify="Middle"/>
+    <Style name="Swarm_BoldExtendedMedium1" font="#Swarm_BoldExtended" height="#Swarm_FontSizeMedium1" vjustify="Middle"/>
+    <Style name="Swarm_BoldExtendedSmall" font="#Swarm_BoldExtended" height="#Swarm_FontSizeSmall" vjustify="Middle"/>
+    <Style name="Swarm_RegularExtendedSmall" font="#Swarm_RegularExtended" height="#Swarm_FontSizeSmall" vjustify="Middle"/>
+    <!-- Font Styles -->
+    <Style name="HotS_UnitStatusLevelLabel" template="Swarm_BoldSmall" vjustify="Middle" hjustify="Center" textcolor="#Swarm_ColorWhite"/>
+    <Style name="HotS_UnitStatusNameLabel" template="Swarm_BoldExtendedXSmall" hjustify="Center" styleflags="Shadow" textcolor="#Swarm_ColorWhite"/>
+    <Style name="HotS_KerriganUnitStatusNameLabel" template="Swarm_BoldExtendedXSmall" styleflags="Shadow" hjustify="Center"/>
+    <Style name="HeroUnitFrameDamageTaken" template="Swarm_BoldExtendedMedium1" textcolor="#Swarm_ColorWhite" vjustify="Middle" hjustify="Center" styleflags="Glow" glowcolor="#Swarm_ColorRed1"/>
+    <Style name="HeroUnitFrameUnitName" template="Swarm_BoldExtendedSmall" textcolor="#Swarm_ColorWhite" styleflags="Shadow|Glow" glowcolor="#Swarm_ColorOrange8" hotkeycolor="#Swarm_ColorWhite"/>
+    <Style name="HeroUnitFrameUnitName_Terr" template="HeroUnitFrameUnitName" glowcolor="#Swarm_ColorGreen10"/>
+    <Style name="HeroUnitFrameUnitName_Prot" template="HeroUnitFrameUnitName" height="16" styleflags="Shadow" shadowoffset="1"/>
+    <Style name="HeroUnitFrameUnitLevel_Prot" template="Swarm_BoldXSmall" height="16" textcolor="#Swarm_ColorWhite" hjustify="Center" styleflags="Shadow"/>
+    <Style name="HeroUnitFrameBarValue_Prot" template="Swarm_RegularExtendedSmall" height="12" textcolor="#Swarm_ColorWhite" styleflags="Shadow" hjustify="Center" shadowoffset="1"/>
+</StyleFile>

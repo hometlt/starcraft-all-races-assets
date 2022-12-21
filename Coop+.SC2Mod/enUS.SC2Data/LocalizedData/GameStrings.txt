@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Models for 7 player wings
+DocInfo/DescShort=Any
+DocInfo/Name=7PlayerHotsModels
+DocInfo/Website=https://discord.gg/XcUzWTfjE5
