@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Bank>
+    <Section name="Attachments">
+        <Key name="Pos_Kerrigan">
+            <Position value="0.000000,0.000000,0.000000"></Position>
+            <Rotation value="0.000000,0.000000,0.000000,1.000000"></Rotation>
+        </Key>
+        <Key name="Pos_Raynor">
+            <Position value="-0.800000,0.000000,0.000000"></Position>
+            <Rotation value="0.000000,0.000000,0.000000,1.000000"></Rotation>
+        </Key>
+        <Key name="Pos_Adjutant">
+            <Position value="0.800000,0.000000,0.000000"></Position>
+            <Rotation value="0.000000,0.000000,0.000000,1.000000"></Rotation>
+        </Key>
+    </Section>
+</Bank>
