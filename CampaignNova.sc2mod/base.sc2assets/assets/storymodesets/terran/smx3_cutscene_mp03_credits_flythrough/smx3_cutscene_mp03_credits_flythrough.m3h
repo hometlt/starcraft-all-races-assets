@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Bank>
+    <Section name="Attachments">
+        <Key name="Pos_Banshee">
+            <Position value="2.853718,-19.598583,63.457066"></Position>
+            <Rotation value="0.000000,0.000000,0.000000,1.000000"></Rotation>
+        </Key>
+        <Key name="Pos_Adjutant">
+            <Position value="0.000000,0.000000,0.000000"></Position>
+            <Rotation value="-0.000000,-0.000000,0.999734,0.023075"></Rotation>
+        </Key>
+        <Key name="Pos_Banshee 01">
+            <Position value="-40.443768,52.319096,1.548203"></Position>
+            <Rotation value="0.000000,0.000000,0.000000,1.000000"></Rotation>
+        </Key>
+    </Section>
+</Bank>

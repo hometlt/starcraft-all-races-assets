@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Bank>
+    <Section name="Attachments">
+        <Key name="Pos_AdjutantToRaynor">
+            <Position value="12.505720,-11.862115,9.306414"></Position>
+            <Rotation value="-0.139246,0.239379,0.824024,-0.494260"></Rotation>
+        </Key>
+        <Key name="Pos_RaynorToAdjutant">
+            <Position value="12.520433,-11.870371,9.261490"></Position>
+            <Rotation value="-0.139246,0.239379,0.824024,-0.494260"></Rotation>
+        </Key>
+    </Section>
+</Bank>

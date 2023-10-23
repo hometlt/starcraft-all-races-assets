@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Assets used in the extension mod DEITY Wasp. (Free to use)<n/>The mod is created by totemhokem. Assets were collected from sc2mapster.<n/>Many thanks to the community!
+DocInfo/DescShort=Art Mod
+DocInfo/Name=ASSETS_DEITY Wasp v2
