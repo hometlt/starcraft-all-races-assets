@@ -1,3 +1,0 @@
-UI/ResourceFrameSupplyIcon_TerU=Assets\Textures\icon-supply-terran.dds
-UI/ResourceFrameArmyIcon_TerU=Assets\Textures\btn-unit-terran-marine-umojan.dds
-UI/ResourceFrameWorkerIcon_TerU=Assets\Textures\btn-unit-terran-scv-umojan.dds

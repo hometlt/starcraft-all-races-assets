@@ -1,1 +1,2 @@
-﻿DocInfo/Name=[ARA] Synoid
+﻿DocInfo/DescLong=Assets for Synoid Mod
+DocInfo/Name=[ARA] Synoid
