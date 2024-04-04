@@ -1,0 +1,2 @@
+﻿DocInfo/DescLong=WOL, HOTS, LOTV Campaings Assets
+DocInfo/Name=[ARA] Campaign
